@@ -1,8 +1,10 @@
-# TimesUniversityRankings
+# Times University Rankings 2024 Power BI Project
 
 [Link to Power BI file for Download](https://github.com/Chazzledazzle13/TimesUniversityRankings/blob/main/Times-University-2024-Rankings-PowerBI.pbix)
 
+[Link to Times University Rankings 2024](https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking)
 
+[Link to Kaggle Data Power BI Project Was Made From](https://www.kaggle.com/datasets/ddosad/timesworlduniversityrankings2024/code)
 
 ## Takeaways
 
