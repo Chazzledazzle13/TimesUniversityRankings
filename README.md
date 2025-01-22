@@ -6,7 +6,7 @@
 
 2. Out of the 945 universities included in the list, 132 are located in North America. Out of those 132, 100 are located in the United States (75.76%). In total, the United States accounts for 10.6% of all universities included on the list.
 
-3. There are five different critiera to decide scoring:
+3. There are five different criteria to decide scoring:
    1. Citation
    2. Industry Income
    3. International Outlook
@@ -29,5 +29,5 @@ See below for how the United States compared to other countries:
    5. Teaching
       US: 54.1  Average: 36.4
 
-5. The average student to teacher ratio for top United States universities is 15.8, for all countries it is 18.5. Of the top universities males make up 48.7%, females 51.3% of top colleges.
-6. Out of the total 2.8 million students included within these top universities, international students make up roughly 16% or 448,000. 
+5. The average student to teacher ratio for top United States universities is 13.3, for all countries it is 18.5. Of the top universities males make up 48.7%, females 51.3% of top colleges compared to females 51.7% and males 48.3% for universities worldwide.
+6. Out of the total 2.8 million students included within these top universities, international students make up roughly 16% or 448,000. Stanford University, who is the #1 ranked US university, has a 23% international student rate of their 14,500 students (or roughly 3,335).
