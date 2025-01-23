@@ -1,4 +1,4 @@
-# Times University Rankings 2024 Power BI Project
+# :mortar_board: Times University Rankings 2024 Power BI Project
 
 [Link to Power BI file for Download](https://github.com/Chazzledazzle13/TimesUniversityRankings/blob/main/Times-University-2024-Rankings-PowerBI.pbix)
 
